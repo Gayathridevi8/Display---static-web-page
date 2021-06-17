@@ -1,0 +1,170 @@
+.top-line{
+    width: 100%;
+    background-color: black;
+    height: 10px;
+}
+.container{
+    height: 1150px;
+
+    width: 75%;
+    margin: 0 auto; /* this is to align center*/
+}
+.nav-bar{
+    height: 90px;
+   
+}
+.nav-bar img{
+    height: 90px;
+    width: 220px;
+    border: none;
+}
+.nav-bar ul{
+    float: right;
+    margin-bottom: 40px;
+    
+}
+.nav-bar ul li{
+    display: inline-block;
+    margin-right: 20px;
+    padding-top: 15px;
+    font-size: 20px;
+    
+   
+}
+.nav-bar ul li a{
+    color: black;
+    text-decoration: none;
+    
+}
+.banner{
+    height: 400px;
+    
+}
+.banner img{
+    height: 400px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.part-1{
+    width: 32%;
+    height: 300px;
+    background-color: lightcoral;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+   
+}
+.part-2{
+    width: 32%;
+    height: 300px;
+    background-color: papayawhip;
+    float: right;
+    margin-top: 20px;
+    
+}
+.part-3{
+    width: 32%;
+    height: 300px;
+    background-color: lightgreen;
+    float: left;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+.part-1 h2{
+    margin-left: 10px;
+}
+.part-2 h2{
+    margin-left: 10px;
+}
+.part-3 h2{
+    margin-left: 10px;
+}
+p{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.part-1 a{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 5px;
+}
+.part-2 a{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 5px;          
+}
+.part-3 a{
+    color: black;
+    background-color: white;
+    padding: 5px;
+    text-decoration: none;
+    margin-left: 5px;          
+}
+
+.down-1{
+    width: 70%;
+    height: 300px;
+    
+    margin-top: 20px;
+    float: left;
+    
+}
+.down-2{
+    width: 30%;
+    height: 300px;
+   
+    float: right;
+    margin-top: 20px;
+   
+}
+.down-1 h2{
+    margin-left: 10px;
+}
+.down-1 p{
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.down-2 h2{
+    margin-left: 10px;
+}
+.down-2 img{
+    margin-bottom: 40px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+    
+}
+.down-2 a{
+    
+    color: black;
+    padding-top: 30px;
+}    
+.footer{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+}
+.footer ul{
+    float: left;
+}
+.footer ul li{
+    display: inline-block;
+    margin-right: 20px;
+    
+}
+.footer ul li a{
+    color: grey;
+    text-decoration: none;
+}
+.footer p{
+    color: white;
+    float: right;
+    padding-right: 60px;
+    
+}
